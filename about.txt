@@ -1,0 +1,3 @@
+Name: Tattaputikala Sai Pranathi
+Course: BCA
+GitHub is used to store projects online using repositories
